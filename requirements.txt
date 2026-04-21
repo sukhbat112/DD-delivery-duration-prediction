@@ -1,0 +1,26 @@
+# --- Core Data Science ---
+pandas
+numpy
+scipy
+
+# --- Visualization ---
+matplotlib
+seaborn
+# plotly
+
+# --- Machine Learning ---
+scikit-learn
+xgboost  # Uncomment if needed
+lightgbm
+# tensorflow
+torch --index-url https://download.pytorch.org/whl/cu124
+
+# --- Notebook & Utilities ---
+ipykernel
+tqdm
+python-dotenv
+
+statsmodels
+# --- Optional: Exploration ---
+# pandas-profiling
+# nbformat
